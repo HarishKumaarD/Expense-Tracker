@@ -38,7 +38,7 @@ expense-tracker/
 │       └── analytics.py     # Analytics endpoints
 ├── .env                     # Environment variables (not in repo)
 ├── .gitignore
-├── run.py                   # Server startup script
+├── main.py                   # Server startup script
 ├── requirements.txt         # Python dependencies
 └── README.md
 ```
